@@ -8,4 +8,4 @@ Snippet to Delete WP Action Schedule
 
 Monitor the progress in Tool-> Schedule Action
 
-Need someone to look after your WordPress? (WebCare - WordPress Maintenance)[https://webcare,co]
+Need someone to look after your WordPress? [WebCare - WordPress Maintenance](https://webcare.co)
